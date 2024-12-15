@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Drogasil",
+        "neighborhood": "Bento Ferreira",
+        "cnpj": "36369585000169",
+        "phone": "(27) 99794-5467 ",
+        "revenue": 245000
+    },
+    {
+        "name": "Drogasil",
+        "neighborhood": "Bento Ferreira",
+        "cnpj": "36369585000169",
+        "phone": "(27) 99794-5467 ",
+        "revenue": 245000
+    },
+    {
+        "name": "DROGASIL",
+        "neighborhood": "Maruípe",
+        "cnpj": "36369585000169",
+        "phone": "(27) 99941-4960 ",
+        "revenue": 245000
+    },
+    {
+        "name": "Mais Globo Farma",
+        "neighborhood": "Praia do Canto",
+        "cnpj": "02326373000182",
+        "phone": "(27) 3227-3553 ",
+        "revenue": 245000
+    },
+    {
+        "name": "Preço Baixo Farmácia",
+        "neighborhood": "Santa Lucia",
+        "cnpj": "39373121000114",
+        "phone": null,
+        "revenue": 245000
+    },
+    {
+        "name": "Restaurante São Pedro",
+        "neighborhood": "Praia do Suá",
+        "cnpj": "06981087000101",
+        "phone": "(27) 3227-0470 ",
+        "revenue": 1080000
+    },
+    {
+        "name": "Petz Vitória",
+        "neighborhood": "Santa Lucia",
+        "cnpj": "40052450000142",
+        "phone": "(27) 3022-5308 ",
+        "revenue": 245000
+    },
+    {
+        "name": "Pet Nort Praia do Canto",
+        "neighborhood": "Praia do Canto",
+        "cnpj": "23878116000123",
+        "phone": "(27) 99222-0158 ",
+        "revenue": 1080000
+    },
+    {
+        "name": "Barber Rock",
+        "neighborhood": "Praia do Canto",
+        "cnpj": "28471679000116",
+        "phone": "(27) 99579-3581 ",
+        "revenue": 245000
+    },
+    {
+        "name": "Studio Juliane Oliveira",
+        "neighborhood": null,
+        "cnpj": "47747991000134",
+        "phone": "(27) 99291-6441 ",
+        "revenue": 245000
+    },
+    {
+        "name": "Paula Shalders",
+        "neighborhood": "Praia do Canto",
+        "cnpj": "02638589000183",
+        "phone": "(27) 3225-4089 ",
+        "revenue": 245000
+    },
+    {
+        "name": "Mr. Albert Moda Masculina",
+        "neighborhood": "Praia do Canto",
+        "cnpj": "38064998000160",
+        "phone": "(27) 3227-0512 ",
+        "revenue": 245000
+    },
+    {
+        "name": "Libertà (Loja)",
+        "neighborhood": "Praia do Canto",
+        "cnpj": "43309767000100",
+        "phone": "(27) 99655-8161 ",
+        "revenue": 245000
+    },
+    {
+        "name": "YOU STAR Roupas para Inverno Internacional e Nacional",
+        "neighborhood": "Santa Lucia",
+        "cnpj": "04649907000137",
+        "phone": "(27) 99961-1773 ",
+        "revenue": 400000000
+    }
+]
